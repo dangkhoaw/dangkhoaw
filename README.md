@@ -1,7 +1,7 @@
 ![Header](./assets/github-header-image.png)
 
-[![Facebook](https://img.shields.io/badge/Facebook-365899?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khoaw.dang)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@dang_khoa_1109)
+[![Facebook](https://img.shields.io/badge/Facebook-365899?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/khoaw.dang)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@dang_khoa_1109)
 [![GitHub](https://img.shields.io/badge/GitHub-010409?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dangkhoaw)
 
 I'm a student at [University of Science and Technology - The University of Danang (DUT)](https://www.facebook.com/bachkhoaDUT) and currently studying Information of Technology
