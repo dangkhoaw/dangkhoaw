@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./assets/github-header-image.png)
 
 I'm a student at [University of Science and Technology - The University of Danang (DUT)](https://www.facebook.com/bachkhoaDUT) and currently studying Information of Technology
 
