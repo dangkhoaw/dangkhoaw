@@ -1,4 +1,4 @@
-![Header](./assets/github-header-image.png)
+<p align="center"><a><img width="80%" alt="Hello, I'm Dang Dang Khoa" src="./assets/github-header-image.png" /></a></p>
 
 [![Facebook](https://img.shields.io/badge/Facebook-365899?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/khoaw.dang)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@dang_khoa_1109)
@@ -8,7 +8,7 @@ I'm a student at [University of Science and Technology - The University of Danan
 
 ### Stats 📈
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=dangkhoaw&show_icons=true&theme=rose_pine&hide=contribs" alt="Đặng Đăng Khoa stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoaw&layout=compact&theme=rose_pine&hide_progress=true" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=dangkhoaw&show_icons=true&theme=rose_pine&hide=contribs" alt="Dang Dang Khoa Github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoaw&layout=compact&theme=rose_pine&hide_progress=true" /></a>
 
 ### Pinned repos 📌
 
