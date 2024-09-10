@@ -6,11 +6,12 @@
 
 ### About me 🧑🏻‍💻
 
-I'm a student at [University of Science and Technology - The University of Danang (DUT)](https://www.facebook.com/bachkhoaDUT) and currently studying Information of Technology. I'm interested in Cyber Security
+I'm a student at [University of Science and Technology - The University of Danang (DUT)](https://www.facebook.com/bachkhoaDUT) and currently studying Information of Technology.
 
 ### Stats 📈
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=dangkhoaw&show_icons=true&theme=catppuccin_mocha&hide=contribs" alt="Dang Dang Khoa Github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoaw&layout=compact&theme=catppuccin_mocha&hide_progress=true" /></a>
 
 ### Pinned repos 📌
+
 <a href="https://github.com/dangkhoaw/quan-ly-sinh-vien"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=quan-ly-sinh-vien&theme=catppuccin_mocha&show_owner=false" alt="Quản lý sinh viên" /></a> | <a href="https://github.com/dangkhoaw/quan-ly-tiem-internet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=quan-ly-tiem-internet&theme=catppuccin_mocha&show_owner=false" /></a>
