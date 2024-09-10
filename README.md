@@ -8,8 +8,10 @@ I'm a student at [University of Science and Technology - The University of Danan
 
 ### Stats 📈
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=dangkhoaw&show_icons=true&theme=rose_pine&hide=contribs" alt="Dang Dang Khoa Github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoaw&layout=compact&theme=rose_pine&hide_progress=true" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=dangkhoaw&show_icons=true&theme=catppuccin_mocha&hide=contribs" alt="Dang Dang Khoa Github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoaw&layout=compact&theme=catppuccin_mocha&hide_progress=true" /></a>
 
 ### Pinned repos 📌
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=quan_li_sinh_vien&theme=rose_pine&show_owner=true)](https://github.com/dangkhoaw/quan_li_sinh_vien)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=quan-ly-sinh-vien&theme=catppuccin_mocha&show_owner=false)](https://github.com/dangkhoaw/quan_li_sinh_vien)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=quan-ly-tiem-internet&theme=catppuccin_mocha&show_owner=false)](https://github.com/dangkhoaw/quan-ly-tiem-internet)
