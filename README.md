@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://facebook.com/khoaw.dang"><img src="https://img.shields.io/badge/Facebook-365899?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://tiktok.com/@dang_khoa_1109"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" /></a>
-<a href="https://github.com/dangkhoaw"><img src="https://img.shields.io/badge/GitHub-010409?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/dangkhoaw"><img src="https://img.shields.io/badge/GitHub-010409?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
 
 ### About me 🧑🏻‍💻
 
@@ -15,3 +15,5 @@ I'm a student at [University of Science and Technology - The University of Danan
 ### Pinned repos 📌
 
 <a href="https://github.com/dangkhoaw/quan-ly-sinh-vien"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=quan-ly-sinh-vien&theme=catppuccin_mocha&show_owner=false" alt="Quản lý sinh viên" /></a> | <a href="https://github.com/dangkhoaw/quan-ly-tiem-internet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangkhoaw&repo=quan-ly-tiem-internet&theme=catppuccin_mocha&show_owner=false" /></a>
+
+<p align="center"><a href="https://visitcount.itsvg.in/api?id=dangkhoaw"><img src="https://visitcount.itsvg.in/api?id=dangkhoaw&color=15&icon=0&pretty=true" /></a></p>
